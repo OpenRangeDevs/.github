@@ -6,8 +6,10 @@ Don't worry though we have good processes to help you get up and running effecti
 
 ## Clients
 * ListoGlobal
+* Aspire FMO
+* Apollo Insurance
+* Hug Engineering
 * ECO Canada
-* 
 * WeCasa
 
 ## Case Studies
